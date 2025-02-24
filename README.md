@@ -7,10 +7,10 @@ This GitHub repository hosts the data and code related to the publication.
 ## Repository Contents
 ### Data
 
-DTx.rda: The dataset used in the study, containing information on clinical trials related to digital therapeutics. This file is in R data format and can be loaded using R or RStudio.
+**DTx.rda**:  The dataset used in the study, containing information on clinical trials related to digital therapeutics. This file is in R data format and can be loaded using R or RStudio.
 
 ### Code
-analysis.R: The primary script for data analysis and visualization. This script includes functions and code snippets used to generate key results and figures presented in the publication.
+**analysis.R**:  The primary script for data analysis and visualization. This script includes functions and code snippets used to generate key results and figures presented in the publication.
 
 
 ## Citing This Work
