@@ -1,5 +1,5 @@
 # Digital-Therapeutics-Clinical-Trials-Dataset
-A comprehensive survey of the clinical trial landscape on digital therapeutics (DTx)
+A comprehensive survey of the clinical trial landscape on digital therapeutics (DTx).
 
 This GitHub repository hosts the data and code related to the publication.
 
@@ -18,6 +18,10 @@ This GitHub repository hosts the data and code related to the publication.
 If you use this data or code in your research, please cite our publication:
 
 Yao, H., Liao, Z., Zhang, X., Zhang, X., Li, M., You, L., & Liu, Y. (2024). A comprehensive survey of the clinical trial landscape on digital therapeutics. Heliyon, 10(16). https://doi.org/10.1016/j.heliyon.2024.e36115
+        
+        
+        
+        
         
         
         
